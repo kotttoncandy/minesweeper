@@ -1,1 +1,1 @@
-[game link]([url](https://kotttoncandy.github.io/minesweeper/minesweeper/))
+game link []([url](https://kotttoncandy.github.io/minesweeper/minesweeper/))
